@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Tema" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorAccent">#0D9488</item>
+        <item name="android:colorPrimary">#0D9488</item>
+        <item name="android:windowBackground">@color/fundo</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
